@@ -1,3 +1,6 @@
+# orig. manufacture datasheets
+datasheet/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

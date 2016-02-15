@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_RJ45_MagJack_POEp
+D bel STEWART CONNECTOR SI-52007-F; RJ45 MagJack POE+, 10/100MBit, LED Yellow/Green, Shielded, Tab Up
+K bel, STEWART CONNECTOR, SI-52007-F, RJ45, MagJack, POE+, 10/100MBit, LED Yellow, Green
+F http://belfuse.com/pdfs/SI-52007-F.pdf
+$ENDCMP
+#
+#End Doc Library
