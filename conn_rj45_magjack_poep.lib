@@ -27,9 +27,9 @@ T 0 800 500 40 0 0 0 J2~TX-  Normal 0 L C
 T 0 800 400 40 0 0 0 J3~RX+  Normal 0 L C
 T 0 800 -100 40 0 0 0 J4  Normal 0 L C
 T 0 800 -200 40 0 0 0 J5  Normal 0 L C
-T 0 800 -300 40 0 0 0 J6  Normal 0 L C
 T 0 800 200 40 0 0 0 J6~RX-  Normal 0 L C
-T 0 800 -400 40 0 0 0 J7  Normal 0 L C
+T 0 800 -300 40 0 0 0 J7  Normal 0 L C
+T 0 800 -400 40 0 0 0 J8  Normal 0 L C
 T 0 -525 -550 40 0 0 0 Uf~2.1V  Normal 0 L C
 T 0 -525 -750 40 0 0 0 Uf~2.2V  Normal 0 L C
 S -1100 800 1100 -1100 0 0 0 N
